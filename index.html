@@ -13,6 +13,10 @@
       rel="stylesheet"
     />
 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+
+
+
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -24,41 +28,44 @@
             <img src="images/build.svg" alt="Selo RocketSeat" />
           </span>
 
-          <img src="https://lorempixel.com/185/185/people/" alt="Foto pessoal"/>
+          <img id="userImage" src="images/people-image.jpeg" alt="Foto pessoal"/>
 
         </div>
 
-        <h1>Izadora Matias</h1>
+        <h1 id="userName">Izadora Matias</h1>
 
-        <a href="https://github.com/izadoramatias">         
-          <img src="images/github.svg" alt="Ícone github" />izadoramatias
+        <a id="userProfile" target="_blank" href="https://github.com/jakeliny">         
+          <img src="images/github.svg" alt="Ícone github" /><span id="userLogin">izadoramatias</span> 
         </a>
 
-        <p>An instructor focused on helping pople start programming for web</p>
+        <p id="userBio">A studant focused on learning programming for web</p>
 
-        <ul>
-          <li>
-            <a target="_blank" href="https://youtube.com">
+        <ul id="socialLinks">
+          <li class="youtube">
+            <a target="_blank" href="https://codepen.io/maykbrito">
               <img src="images/youtube.svg" alt="Ícone youtube" />
             </a>
           </li>
-          <li>
-            <a target="_blank" href="https://facebook.com">
+          <li class="facebook">
+            <a target="_blank" href="https://facebook.com/maykbrito">
               <img src="images/facebook.svg" alt="Ícone facebook" />
             </a>
           </li>
-          <li>
-            <a target="_blank" href="https://instagram.com">
+          <li class="instagram">
+            <a target="_blank" href="https://instagram.com/maykbrito">
               <img src="images/instagram.svg" alt="Ícone instagram" />
             </a>
           </li>
-          <li>
-            <a target="_blank" href="https://twitter.com">
+          <li class="twitter">
+            <a target="_blank" href="https://twitter.com/maykbrito">
               <img src="images/twitter.svg" alt="Ícone twitter" />
             </a>
           </li>
         </ul>
       </div>
     </main>
+
+    <script src="scripts/script.js"></script>
+
   </body>
 </html>
