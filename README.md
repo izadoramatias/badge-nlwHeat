@@ -1,2 +1,22 @@
-# badge-nlwHeat
-Crachá virtual desenvolvido na trilha origin da NLW Heat 2021. No desenvolvimento do projeto, foram utilizados HTML5, CSS3, JavaScript, e também a API do GitHub
+
+<h1 align="center">
+Crachá virtual DoWhile - 2021
+</h1>
+
+<a target="_blank" href="https://izadoramatias.github.io/badge-nlwHeat/" alt="Imagem do projeto crachá nlw heat 2021.">
+</a>
+
+
+
+## 🚀 Tecnologias
+
+O projeto foi desenvolvido a partir dessas tecnologias:
+
+- HTML5
+- CSS3
+- JavaScript
+- Vanilla-tilt
+
+## 🌌 O projeto
+
+O Crachá virtual foi desenvolvido pensando no evento DoWhile 2021. Cada dev pôde desenvolver seu próprio crachá, e divulgá-lo para outras pessoas e fazer networking. Além de ser também uma forma de divlgação do DoWhile 2021. 
