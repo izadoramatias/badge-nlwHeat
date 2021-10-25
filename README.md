@@ -1,9 +1,10 @@
 
 <h1 align="center">
-Crachá virtual DoWhile - 2021
+  Crachá virtual DoWhile - 2021
 </h1>
 
-<a target="_blank" href="https://izadoramatias.github.io/badge-nlwHeat/" alt="Imagem do projeto crachá nlw heat 2021.">
+<a href="https://izadoramatias.github.io/badge-nlwHeat/" alt="Imagem do projeto crachá nlw heat 2021." target="_blank">
+  <img src="preview/preview-crachá.jpeg"/>
 </a>
 
 
